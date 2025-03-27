@@ -1,0 +1,51 @@
+Fix:
+* Animations for cops when aresting people and a handcuff model maybe.
+* Clear up keybinds. the less keybinds the better :)
+* /e command for animations
+* More realistic accurate img to the inventory
+* Maybe fix so you only get notification when getting a item??? And make it normal notification?
+
+* A lock script for vehicles where you have keys and whne you have that you get acces to store and lock vehicle. And the owner of vehicle can create new key for vehicle etc at a key shop.
+
+* A cardealer for jobs where a certaint grade can buy vehicles and give it to the college and manage bought vehicles. Or just fix so that you can buy the vehicles in the normal cardealer.
+
+* The circle minimap is fucked when on cayo island. Square advanced notifications is put on the minimap like normal. Lower the blip margin
+
+
+
+Tried:
+* So that it's not a sound when shooting someone in the head on the crosshair script.
+* Npc randomly turning angry / maybe sync is fucked or something / Maybe try update artifacts files or try another onesync
+* Remove insta kill / might only work on players not peds
+* Fix so that you can't bug throw walls etc with animations
+* Chat having multiple emty lines after entering a text with multiple lines.
+* Disable so you can't aim etc while in a vehicle and have the context menu open.
+* Fix so the minimap border is also while on foot now it's only while in vehicle.
+* Fix all charis or benches etc not working to sit on with esx_sit script
+
+
+
+Unclear:
+* Engine not staying on all the time
+* The esx_identity might change the year to be first or last depending on where you are from.
+* The afk script kicking you if you try reconnect directly after you been kicked if you have not restarted fivem app
+
+
+
+Future stuff(not important)
+* Fix so that screenshot basic starts first time so that also npdw does it
+
+* Clothing system not working randomly error in server-data folder. / Not important because after error you can open it like normal if you try again
+
+
+
+Language things that is not up to date:
+Garage only english with title and acces parking at least(!OBS its alot more than this one just the one i know)
+
+
+
+Random thoughts:
+* Maybe you can't drive while using inventory because it tries to do the animation while opening your inventory
+* If you wait if you don't have a job on the loop where artex-drawn3dtext is it will save performance
+* You could maybe fix so that the 3d person camera is centered and not a little bit to the right?
+* Maybe make the gates open easiler the ones that goes up that you have to tuch to activate them

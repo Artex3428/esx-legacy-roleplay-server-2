@@ -1,0 +1,14 @@
+:root {
+    --color: white;
+    --bgColor: #25262b;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    color: var(--color);
+    font-family: sans-serif;
+}
